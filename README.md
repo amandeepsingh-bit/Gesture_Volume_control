@@ -21,7 +21,7 @@ A green bar on the left of the screen fills up/down as you pinch, and shows the 
 
 ## Installation
 ```bash
-git clone https://github.com/YOUR-USERNAME/gesture-volume-control.git
+git clone https://github.com/amandeepsingh-bit/Gesture_Volume_control.git
 cd gesture-volume-control
 pip install -r requirements.txt
 ```
